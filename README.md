@@ -7,6 +7,8 @@ A web app that transforms user interests into strong, memorable password suggest
 
 **Smart. Secure. Memorable.**
 
+[🚀 Live Demo](https://password-generator-plum-sigma-92.vercel.app/)
+
 ## Features
 
 - Generate 8 password suggestions at once from interest keywords
