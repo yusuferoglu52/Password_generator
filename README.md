@@ -1,4 +1,7 @@
 # KeyPhrase Password Generator
+<p align="center">
+  <img src="assets/logo.png" width="300" alt="KeyPhrase Logo">
+</p>
 
 A web app that transforms user interests into strong, memorable password suggestions.
 
