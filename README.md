@@ -3,6 +3,10 @@
   <img src="public/logo.png" width="300" alt="logo">
 </p>
 
+
+<p align="center">
+  <img src="public/logo.png" width="300" alt="page_screenshot">
+</p>
 A web app that transforms user interests into strong, memorable password suggestions.
 
 **Smart. Secure. Memorable.**
