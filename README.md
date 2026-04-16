@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="public/page_screenshot" width="300" alt="page_screenshot">
+  <img src="public/page_screenshot.png" width="300" alt="page_screenshot">
 </p>
 A web app that transforms user interests into strong, memorable password suggestions.
 
