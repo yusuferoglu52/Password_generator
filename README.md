@@ -1,8 +1,4 @@
 # KeyPhrase Password Generator
-<p align="center">
-  <img src="public/logo.png" width="300" alt="logo">
-</p>
-
 
 <p align="center">
   <img src="public/page_screenshot.png" width="700" alt="page_screenshot">
